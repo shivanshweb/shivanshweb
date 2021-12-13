@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivanshweb
+- 👋 Hi, I’m shivansh
 - 👀 I’m interested in web development  role
 - 🌱 I’m currently react
 - 💞️ I’m looking to collaborate on ...
