@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shivansh
 - 👀 I’m interested in web development  role
-- 🌱 I’m currentlyworking on react js. 
+- 🌱 I’m currently working on Node js. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
