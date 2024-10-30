@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shivansh
-- 👀 I’m interested in web development  role
-- 🌱 I’m currently working on Node js. 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science role
+- 🌱 I’m working on Machine learning, NLP and Deep learning. 
+- 💞️ I’m looking to collaborate on new ideas...
 - 📫 How to reach me ...
 
 <!---
